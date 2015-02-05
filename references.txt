@@ -1,0 +1,8 @@
+http://getbootstrap.com/css/
+http://www.w3schools.com/
+http://www.alsacreations.com/
+
+# I had differences between my browser and the test result, so i tried to add
+# normalyze.css and the "meta UA"
+http://necolas.github.io/normalize.css/
+https://www.modern.ie/en-us/performance/how-to-use-x-ua-compatible
